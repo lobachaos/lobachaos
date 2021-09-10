@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lobachaos
 - 👀 I’m student of  Computer Systems Analyst 
 - 💞️ I’m looking to collaborate on Open Sources Projects
-- 📫 How to reach me zwolfsasa@gmail.com
+- https://www.codewars.com/users/lobachaos
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobachaos&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
