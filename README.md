@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lobachaos
 - 👀 I’m student of  Computer Systems Analyst 
 - 💞️ I’m looking to collaborate on Open Sources Projects
+- 🚩 I'm from Brazil 
 - https://www.codewars.com/users/lobachaos
 
 
