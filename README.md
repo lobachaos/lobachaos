@@ -13,46 +13,48 @@ I'm a Full Stack Developer with 4 years of professional experience building scal
 
 ### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="32" alt="Drupal" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="PHP" /> PHP &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" alt="Laravel" /> Laravel &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="28" alt="Drupal" /> Drupal &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" /> MySQL
 </p>
 
 ### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" /> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" /> TypeScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" /> React
 </p>
 
 ### Testing
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="32" alt="PHPUnit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="32" alt="Cypress" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" height="28" alt="PHPUnit" /> PHPUnit &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="28" alt="Cypress" /> Cypress
 </p>
 
 ### Mobile
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="Flutter" /> Flutter
 </p>
 
-### Cloud & DevOps
+### Cloud, Monitoring & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS" /> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux" /> Linux &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" height="28" alt="New Relic" /> New Relic
 </p>
 
 ### Tools & Workflow
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" alt="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="32" alt="Confluence" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" /> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="28" alt="Jira" /> Jira &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="28" alt="Confluence" /> Confluence
 </p>
 
 ## ✅ What I Care About
 - Clean and maintainable code  
 - Automated testing and code quality  
-- Performance and observability in production  
+- Performance, observability, and monitoring in production  
 - Clear communication and continuous improvement  
 - Building solutions that scale and create real impact  
 
