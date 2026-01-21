@@ -12,33 +12,42 @@ I'm a Full Stack Developer with 4 years of professional experience building scal
 ## 🛠️ Tech Stack
 
 ### Backend
-- PHP  
-- Laravel  
-- Drupal  
-- REST APIs  
-- MySQL  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="32" alt="Drupal" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+</p>
 
 ### Frontend
-- JavaScript  
-- React  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+</p>
 
 ### Testing
-- PHPUnit  
-- Pest  
-- Cypress (E2E testing)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="32" alt="PHPUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="32" alt="Cypress" />
+</p>
 
 ### Mobile
-- Flutter  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
+</p>
 
 ### Cloud & DevOps
-- AWS  
-- Linux environments  
-- Application monitoring and performance analysis with New Relic  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+</p>
 
 ### Tools & Workflow
-- Git  
-- Jira  
-- Confluence  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="32" alt="Confluence" />
+</p>
 
 ## ✅ What I Care About
 - Clean and maintainable code  
@@ -47,12 +56,18 @@ I'm a Full Stack Developer with 4 years of professional experience building scal
 - Clear communication and continuous improvement  
 - Building solutions that scale and create real impact  
 
+## 📚 Currently Learning
+- Advanced PHP architecture patterns  
+- Software design and system scalability  
+- Cloud-native best practices  
+
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/lobachaos)
+- LinkedIn: https://linkedin.com/in/lobachaos  
 
 ---
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
+
 
 <!-- - ⚡ Fun fact: ... -->
 
